@@ -16,6 +16,7 @@ Glamour shot:
 
 A design for accommodating all decks and tokens required for the invader board.
 
+* Compact invader board (from above)
 * Blight tokens and blight cards
 * Event cards
 * Fear tokens and fear cards
@@ -27,4 +28,4 @@ A design for accommodating all decks and tokens required for the invader board.
 Why make a new thing?
 * for fun (because I can)
 * most organizers for Spirit Island are 3d-printed and thus plastic. I don't want to use that material.
-* most organizers are optimized for space efficiency. I wanted to make one that optimizes set-up/tear-down time. Firstly, because setup is really annoying with small zip-bags. Secondly, because I rarely transport the box.  
+* most organizers are optimized for space efficiency. I wanted to make one that optimizes set-up/tear-down time. Because I rarely transport the box and setup is really annoying with small zip-bags.  
