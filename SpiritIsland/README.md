@@ -2,7 +2,7 @@
 
 Accessories and boxes for my favourite board game of all time: [Spirit Island](https://boardgamegeek.com/boardgame/162886/spirit-island). 
 
-## Invader Board
+## Compact Invader Board
 Idea and design of the board are purely based on Padraig946's brilliant design from the [BoardGameGeek Forums](https://boardgamegeek.com/filepage/245054/spirit-island-compact-invader-board).
 
 There's one minor change to the design: I moved the Ravege/Build/Explore labels below the cards. This is the direction the board is mostly viewed from and I had (especially new players) be confused about the current phase because invader cards/deck hid the labels.
@@ -25,7 +25,5 @@ A design for accommodating all decks and tokens required for the invader board.
 
 ### Design Notes ###
 
-Why make a new thing?
-* for fun (because I can)
-* most organizers for Spirit Island are 3d-printed and thus plastic. I don't want to use that material.
-* most organizers are optimized for space efficiency. I wanted to make one that optimizes set-up/tear-down time. Because I rarely transport the box and setup is really annoying with small zip-bags.  
+* Make it wood (not plastic)
+* Optimize for setup time and ease of use first, and for space efficiency second.
