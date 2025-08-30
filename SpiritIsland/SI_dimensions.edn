@@ -1,0 +1,67 @@
+{:notes {:about-this-file "Taking these notes in the edn-format (https://github.com/edn-format/edn). It's IMHO the sanest way of writing down data in machine-readable and human-readable form."
+         :units :mm
+         :h "Average thickness of cards/tokens I own, unsleeved. This may vary with region and time of purchase etc."
+         :dm "Diameter"
+         :card [:fear-card :event-card :minor-power-card :major-power-card :unique-power-card :aspect-card]
+         :small-card [:invader-card :variant-card :scenario-card :adversary-specific-card :major-power-tracker :event-reminder]
+         :sleeves "Sleeve dimensions vary with type. These are the dimensions of the sleeves I happen to use."
+         :tokens "The dimensions for the premium tokens"}
+ :box {:w 284
+       :d 284
+       :h 75
+       :note "inside dimensions"}
+ :island-board {:w 309
+                :d 182
+                :h 2.2
+                :edge-length 195
+                :note "roughly diamond shape composed of two connected equilateral triangles with edge-length"}
+ :spirit-board {:w 229
+                :d 152.5
+                :h 2.22
+                :note "82 mm for 37 boards"}
+ :spirit-board-cardstock {:w 229
+                          :d 152.5
+                          :h 0.41
+                          :note "15 mm for 37 boards"}
+ :adversary-board {:w 102
+                   :d 152.5
+                   :h 0.38
+                   :note "3 mm for 8 boards"}
+ :card {:w 63.5
+        :d 88.5
+        :h 0.37
+        :note "37 mm for 100 cards"
+        :sleeves {:w
+                  :d
+                  :h
+                  :note ""}}
+ :blight-deck {:h 8.5 :count 23 :size :card :note "Downward Spiral is removed"}
+ :event-deck {:h 22.3 :count 60 :size :card :note "Numinous Crisis are removed"}
+ :fear-deck {:h 18.5 :count 20 :size :card}
+ :small-card {:w 44
+              :d 67
+              :h 0.36
+              :note "10.2 mm for 28 cards"
+              :sleeves {:w 46.5
+                        :d 72
+                        :h 0.2
+                        :note "5.6 mm for 28 cards"}}
+ :invader-deck {:h 6.1 :count 17 :size :small-card :note "includes 15 standard cards and 2 habsburg cards"}
+ :adversary-reminder-large {:w 63.5
+                            :d 8
+                            :h 2.17}
+ :adversary-reminder {:w 43
+                      :d 8
+                      :h 2.17
+                      :note "26 mm for 12 reminders"}
+ :presence-tokens {:dm 15
+                   :h 3}
+ :reminder-tokens {:dm 20.0
+                   :h 4.3}
+ :element-tokens {:dm 13.5
+                  :h 4.3}
+ :energy-tokens {:dm 15.3
+                 :h 4.3
+                 :note "16.0 diagonally"}
+ :energy3-tokens {:dm 20.4
+                  :h 4.3}}
