@@ -12,20 +12,6 @@ Idea and layout of the board are purely based on Padraig946's brilliant design f
 
 There's one minor change to the design: the Ravege/Build/Explore labels are placed below the cards. This is the direction the board is mostly viewed from and I had (especially new players) be confused about the current phase because invader cards/deck hid the labels.
 
-The fonts are JosefinSans-Regular and DK Snemand Demo, some icons are selfmade. 
-
-I used the following icon svgs from [Spirit Island Wiki](https://spiritislandwiki.com/index.php?title=SpiritIsland:Copyrights), published under Creative commons Attribution-NonCommercial-ShareAlike (as are my designs):
-
-* Badlands
-* Beasts
-* Blight (detailed one, on the side of the box)
-* City
-* Disease
-* Fear
-* Strife
-* Town
-* Wilds
-
 ## Invader Box
 
 A box accommodating all cards and tokens required for the invader board.
@@ -98,6 +84,33 @@ A box with sliding lid containing six compartments (for the six island boards).
 * Blight Token
 * Beast + Disease
 * 6 Dahan
+
+## Icons and fonts
+
+The fonts in use:
+* JosefinSans-Regular: for innate powers and card text
+* DK Snemand Demo: for spirit names and labels on the invader board
+* Gobold Extra 2: for growth tracks and energy icons 
+
+The following icons are selfmade:
+
+* Blight (trace of the icon used on spirit boards)
+* Energy
+* Fast
+* Isolate
+* Slow
+
+I used the following icon svgs from [Spirit Island Wiki](https://spiritislandwiki.com/index.php?title=SpiritIsland:Copyrights), published under [Creative Commons Attribution-NonCommercial-ShareAlike](https://creativecommons.org/licenses/by-nc-sa/4.0/) (as are my designs):
+
+* Badlands
+* Beasts
+* Blight (detailed one)
+* City
+* Disease
+* Fear
+* Strife
+* Town
+* Wilds
 
 ## Dimensions for Various Things
 
