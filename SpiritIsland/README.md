@@ -4,7 +4,7 @@ Accessories and boxes for my favourite board game of all time: [Spirit Island](h
 
 See images below.
 
-Lightburn files, SVG export possible.
+Lightburn files, SVG export possible. Made heavy use of [Boxes.py](https://boxes.hackerspace-bamberg.de)
 
 ## Compact Invader Board
 
@@ -12,7 +12,19 @@ Idea and layout of the board are purely based on Padraig946's brilliant design f
 
 There's one minor change to the design: the Ravege/Build/Explore labels are placed below the cards. This is the direction the board is mostly viewed from and I had (especially new players) be confused about the current phase because invader cards/deck hid the labels.
 
-The fonts are JosefinSans-Regular and DK Snemand Demo, icon svgs are selfmade or borrowed from spirit island wiki.
+The fonts are JosefinSans-Regular and DK Snemand Demo, some icons are selfmade. 
+
+I used the following icon svgs from [Spirit Island Wiki](https://spiritislandwiki.com/index.php?title=SpiritIsland:Copyrights), published under Creative commons Attribution-NonCommercial-ShareAlike (as are my designs):
+
+* Badlands
+* Beasts
+* Blight (detailed one, on the side of the box)
+* City
+* Disease
+* Fear
+* Strife
+* Town
+* Wilds
 
 ## Invader Box
 
@@ -29,7 +41,25 @@ Optimized for setup time and ease of use first, and for space efficiency second.
 Designed for non-sleeved cards and premium tokens. 
 Sleeved cards and regular fear tokens should work as well.
 
-Built from 2mm (2.2mm) birch plywood.
+Built of 2mm (1/12 inch) birch plywood.
+
+Boxes.py source:
+
+* [Invader Box](https://boxes.hackerspace-bamberg.de/TypeTray?FingerJoint_style=rectangular&FingerJoint_surroundingspaces=0&FingerJoint_bottom_lip=0.0&FingerJoint_edge_width=0&FingerJoint_extra_length=0.1&FingerJoint_finger=4.4&FingerJoint_play=0&FingerJoint_space=6&FingerJoint_width=1&Stackable_angle=60&Stackable_bottom_stabilizers=0.0&Stackable_height=0&Stackable_holedistance=1.0&Stackable_width=4.0&Hinge_grip_percentage=0&Hinge_outset=0&Hinge_pinwidth=0.5&Hinge_axle=2.0&Hinge_grip_length=0&Hinge_hingestrength=1&CabinetHinge_bore=3.2&CabinetHinge_eyes_per_hinge=5&CabinetHinge_hinges=2&CabinetHinge_style=inside&CabinetHinge_eye=1.5&CabinetHinge_play=0.05&CabinetHinge_spacing=2.0&SlideOnLid_hole_width=0&SlideOnLid_second_pin=0&SlideOnLid_second_pin=1&SlideOnLid_spring=both&SlideOnLid_style=rectangular&SlideOnLid_surroundingspaces=2.0&SlideOnLid_bottom_lip=0.0&SlideOnLid_edge_width=1.0&SlideOnLid_extra_length=0.0&SlideOnLid_finger=3.0&SlideOnLid_play=0.05&SlideOnLid_space=2.0&SlideOnLid_width=1.0&Click_angle=5.0&Click_bottom_radius=0.1&Click_depth=3.0&RoundedTriangleEdge_height=50.0&RoundedTriangleEdge_r_hole=2.0&RoundedTriangleEdge_radius=30.0&RoundedTriangleEdge_outset=1.0&Mounting_d_head=6.5&Mounting_d_shaft=3.0&Mounting_margin=0.125&Mounting_num=2&Mounting_side=back&Mounting_style=straight+edge%2C+within&HandleEdge_height=20.0&HandleEdge_hole_height=75.0&HandleEdge_hole_width=40%3A40&HandleEdge_on_sides=0&HandleEdge_on_sides=1&HandleEdge_radius=10.0&HandleEdge_outset=1.0&Lid_handle=none&Lid_style=none&Lid_handle_height=8.0&Lid_height=4.0&Lid_play=0.1&text_size=12&text_alignment=left&text_distance_x=2.0&text_distance_y=2.0&text_at_front=0&label_text=&FingerHoleEdge_absolute_depth=0&FingerHoleEdge_absolute_width=20&FingerHoleEdge_radius=10.0&FingerHoleEdge_relative_depth=1&FingerHoleEdge_relative_width=0&sx=47%3A67%3A67%3A76&sy=92&h=40&hi=37&outside=0&bottom_edge=F&top_edge=e&back_height=0.0&radius=0.0&gripheight=30&gripwidth=0&handle=0&fingerholes=front&thickness=2.2&format=lbrn2&tabs=0&qr_code=0&debug=0&labels=0&labels=1&reference=100.0&inner_corners=loop&burn=0.06&language=de&render=0)
+* [Fear Token Tray](https://boxes.hackerspace-bamberg.de/TypeTray?FingerJoint_style=rectangular&FingerJoint_surroundingspaces=0&FingerJoint_bottom_lip=0.0&FingerJoint_edge_width=0&FingerJoint_extra_length=0.1&FingerJoint_finger=3&FingerJoint_play=0&FingerJoint_space=3&FingerJoint_width=1&Stackable_angle=60&Stackable_bottom_stabilizers=0.0&Stackable_height=0&Stackable_holedistance=1.0&Stackable_width=4.0&Hinge_grip_percentage=0&Hinge_outset=0&Hinge_pinwidth=0.5&Hinge_axle=2.0&Hinge_grip_length=0&Hinge_hingestrength=1&CabinetHinge_bore=3.2&CabinetHinge_eyes_per_hinge=5&CabinetHinge_hinges=2&CabinetHinge_style=inside&CabinetHinge_eye=1.5&CabinetHinge_play=0.05&CabinetHinge_spacing=2.0&SlideOnLid_hole_width=0&SlideOnLid_second_pin=0&SlideOnLid_second_pin=1&SlideOnLid_spring=both&SlideOnLid_style=rectangular&SlideOnLid_surroundingspaces=2.0&SlideOnLid_bottom_lip=0.0&SlideOnLid_edge_width=1.0&SlideOnLid_extra_length=0.0&SlideOnLid_finger=3.0&SlideOnLid_play=0.05&SlideOnLid_space=2.0&SlideOnLid_width=1.0&Click_angle=5.0&Click_bottom_radius=0.1&Click_depth=3.0&RoundedTriangleEdge_height=50.0&RoundedTriangleEdge_r_hole=2.0&RoundedTriangleEdge_radius=30.0&RoundedTriangleEdge_outset=1.0&Mounting_d_head=6.5&Mounting_d_shaft=3.0&Mounting_margin=0.125&Mounting_num=2&Mounting_side=back&Mounting_style=straight+edge%2C+within&HandleEdge_height=20.0&HandleEdge_hole_height=75.0&HandleEdge_hole_width=40%3A40&HandleEdge_on_sides=0&HandleEdge_on_sides=1&HandleEdge_radius=10.0&HandleEdge_outset=1.0&Lid_handle=none&Lid_style=none&Lid_handle_height=8.0&Lid_height=4.0&Lid_play=0.1&text_size=12&text_alignment=left&text_distance_x=2.0&text_distance_y=2.0&text_at_front=0&label_text=&FingerHoleEdge_absolute_depth=0&FingerHoleEdge_absolute_width=16&FingerHoleEdge_radius=8&FingerHoleEdge_relative_depth=0.40&FingerHoleEdge_relative_width=0&sx=20*3&sy=6.2%3A18%3A6.2%3A18%3A6.2%3A18%3A6.2&h=20&hi=20&outside=0&bottom_edge=F&top_edge=e&back_height=0.0&radius=0.0&gripheight=30&gripwidth=0&handle=0&fingerholes=inside-only&thickness=1.56&format=lbrn2&tabs=0&qr_code=0&qr_code=1&debug=0&labels=0&labels=1&reference=100.0&inner_corners=loop&burn=0.04&language=de&render=0)
+* [Blight Tray](https://boxes.hackerspace-bamberg.de/SmallPartsTray2?FingerJoint_style=rectangular&FingerJoint_surroundingspaces=1.0&FingerJoint_bottom_lip=0.0&FingerJoint_edge_width=1.0&FingerJoint_extra_length=0.0&FingerJoint_finger=3&FingerJoint_play=0.0&FingerJoint_space=3&FingerJoint_width=1.0&Lid_handle=none&Lid_style=none&Lid_handle_height=8.0&Lid_height=4.0&Lid_play=0.1&h=24&sx=46&sy=72&hi=0.0&outside=0&outside=1&back_height=0.0&radius=0.0&handle=0&thickness=1.55&format=lbrn2&tabs=0.0&qr_code=0&qr_code=1&debug=0&labels=0&labels=1&reference=100.0&inner_corners=loop&burn=0.06&language=de&render=0)
+* [Blight Companion Tray](https://boxes.hackerspace-bamberg.de/TypeTray?FingerJoint_style=rectangular&FingerJoint_surroundingspaces=0&FingerJoint_bottom_lip=0.0&FingerJoint_edge_width=0&FingerJoint_extra_length=0.1&FingerJoint_finger=2.7&FingerJoint_play=0&FingerJoint_space=2.7&FingerJoint_width=1&Stackable_angle=60&Stackable_bottom_stabilizers=0.0&Stackable_height=0&Stackable_holedistance=1.0&Stackable_width=4.0&Hinge_grip_percentage=0&Hinge_outset=0&Hinge_pinwidth=0.5&Hinge_axle=2.0&Hinge_grip_length=0&Hinge_hingestrength=1&CabinetHinge_bore=3.2&CabinetHinge_eyes_per_hinge=5&CabinetHinge_hinges=2&CabinetHinge_style=inside&CabinetHinge_eye=1.5&CabinetHinge_play=0.05&CabinetHinge_spacing=2.0&SlideOnLid_hole_width=0&SlideOnLid_second_pin=0&SlideOnLid_second_pin=1&SlideOnLid_spring=both&SlideOnLid_style=rectangular&SlideOnLid_surroundingspaces=2.0&SlideOnLid_bottom_lip=0.0&SlideOnLid_edge_width=1.0&SlideOnLid_extra_length=0.0&SlideOnLid_finger=3.0&SlideOnLid_play=0.05&SlideOnLid_space=2.0&SlideOnLid_width=1.0&Click_angle=5.0&Click_bottom_radius=0.1&Click_depth=3.0&RoundedTriangleEdge_height=50.0&RoundedTriangleEdge_r_hole=2.0&RoundedTriangleEdge_radius=30.0&RoundedTriangleEdge_outset=1.0&Mounting_d_head=6.5&Mounting_d_shaft=3.0&Mounting_margin=0.125&Mounting_num=2&Mounting_side=back&Mounting_style=straight+edge%2C+within&HandleEdge_height=20.0&HandleEdge_hole_height=75.0&HandleEdge_hole_width=40%3A40&HandleEdge_on_sides=0&HandleEdge_on_sides=1&HandleEdge_radius=10.0&HandleEdge_outset=1.0&Lid_handle=none&Lid_style=none&Lid_handle_height=8.0&Lid_height=4.0&Lid_play=0.1&text_size=12&text_alignment=left&text_distance_x=2.0&text_distance_y=2.0&text_at_front=0&label_text=&FingerHoleEdge_absolute_depth=0&FingerHoleEdge_absolute_width=20&FingerHoleEdge_radius=15&FingerHoleEdge_relative_depth=0.6&FingerHoleEdge_relative_width=0&sx=46.5&sy=19&h=36.75&hi=36.75&outside=0&outside=1&bottom_edge=F&top_edge=e&back_height=0.0&radius=0.0&gripheight=30&gripwidth=0&handle=0&fingerholes=front&thickness=1.55&format=lbrn2&tabs=0&qr_code=0&qr_code=1&debug=0&labels=0&labels=1&reference=100.0&inner_corners=loop&burn=0.06&language=de&render=0)
+
+Notes:
+
+* I tried to account for sleeved cards, but the margin of error seems small.
+* The invader box required several manual modifications
+  * fix an error made by the generator where the holes for inner finger joints need to be mirrored
+  * enlarging the finger holes to the bottom of the box 
+  * resizing the finger joints below the finger holes to make the side of the box more rigid
+  * enlarging one inner separator to keep the smaller part of the compact invader board from sliding inside the box
+* Make sure to sand all sides thoroughly before glueing. Your cards and tokens will be grateful.
+
 
 Plans:
 
@@ -39,11 +69,25 @@ Plans:
 ## Energy Box
 
 A box for storing premium energy tokens, with a twist.
-Consists of three nested boxes. 
-The middle box is a sieve that separates 1-energy and 3-energy tokens when shaking the box.
+Consists of three nested trays. 
+The middle tray is actually a sieve that separates 1-energy and 3-energy tokens when shaking the box.
 
-Coincidentally, the box has similar dimensions to sleeved cards and could be placed into card-holders. 
-Built from 1.5mm (1.55mm) birch plywood.
+Coincidentally, the box has similar dimensions to sleeved cards and could be placed inside card-holders. 
+Built of 1.5mm (1/16 inch) birch plywood.
+
+Boxes.py source:
+
+* [Outer Tray](https://boxes.hackerspace-bamberg.de/TypeTray?FingerJoint_style=rectangular&FingerJoint_surroundingspaces=0.5&FingerJoint_bottom_lip=0.0&FingerJoint_edge_width=0&FingerJoint_extra_length=0.1&FingerJoint_finger=3&FingerJoint_play=0&FingerJoint_space=3&FingerJoint_width=1&Stackable_angle=60&Stackable_bottom_stabilizers=0.0&Stackable_height=0&Stackable_holedistance=1.0&Stackable_width=4.0&Hinge_grip_percentage=0&Hinge_outset=0&Hinge_pinwidth=0.5&Hinge_axle=2.0&Hinge_grip_length=0&Hinge_hingestrength=1&CabinetHinge_bore=3.2&CabinetHinge_eyes_per_hinge=5&CabinetHinge_hinges=2&CabinetHinge_style=inside&CabinetHinge_eye=1.5&CabinetHinge_play=0.05&CabinetHinge_spacing=2.0&SlideOnLid_hole_width=0&SlideOnLid_second_pin=0&SlideOnLid_second_pin=1&SlideOnLid_spring=both&SlideOnLid_style=rectangular&SlideOnLid_surroundingspaces=2.0&SlideOnLid_bottom_lip=0.0&SlideOnLid_edge_width=1.0&SlideOnLid_extra_length=0.0&SlideOnLid_finger=3.0&SlideOnLid_play=0.05&SlideOnLid_space=2.0&SlideOnLid_width=1.0&Click_angle=5.0&Click_bottom_radius=0.1&Click_depth=3.0&RoundedTriangleEdge_height=50.0&RoundedTriangleEdge_r_hole=2.0&RoundedTriangleEdge_radius=30.0&RoundedTriangleEdge_outset=1.0&Mounting_d_head=6.5&Mounting_d_shaft=3.0&Mounting_margin=0.125&Mounting_num=2&Mounting_side=back&Mounting_style=straight+edge%2C+within&HandleEdge_height=20.0&HandleEdge_hole_height=75.0&HandleEdge_hole_width=40%3A40&HandleEdge_on_sides=0&HandleEdge_on_sides=1&HandleEdge_radius=10.0&HandleEdge_outset=1.0&Lid_handle=none&Lid_style=none&Lid_handle_height=8.0&Lid_height=4.0&Lid_play=0.1&text_size=12&text_alignment=left&text_distance_x=2.0&text_distance_y=2.0&text_at_front=0&label_text=&FingerHoleEdge_absolute_depth=0&FingerHoleEdge_absolute_width=25&FingerHoleEdge_radius=25&FingerHoleEdge_relative_depth=0.35&FingerHoleEdge_relative_width=0&sx=63&sy=83&h=27&hi=0&outside=0&bottom_edge=F&top_edge=e&back_height=0.0&radius=0.0&gripheight=30&gripwidth=0&handle=0&fingerholes=front-and-back&thickness=1.55&format=lbrn2&tabs=0&qr_code=0&qr_code=1&debug=0&labels=0&labels=1&reference=100.0&inner_corners=loop&burn=0.06&language=de&render=0)
+* [Sieve Tray](https://boxes.hackerspace-bamberg.de/TypeTray?FingerJoint_style=rectangular&FingerJoint_surroundingspaces=0.5&FingerJoint_bottom_lip=0.0&FingerJoint_edge_width=0&FingerJoint_extra_length=0.1&FingerJoint_finger=3&FingerJoint_play=0&FingerJoint_space=3&FingerJoint_width=1&Stackable_angle=60&Stackable_bottom_stabilizers=0.0&Stackable_height=0&Stackable_holedistance=1.0&Stackable_width=4.0&Hinge_grip_percentage=0&Hinge_outset=0&Hinge_pinwidth=0.5&Hinge_axle=2.0&Hinge_grip_length=0&Hinge_hingestrength=1&CabinetHinge_bore=3.2&CabinetHinge_eyes_per_hinge=5&CabinetHinge_hinges=2&CabinetHinge_style=inside&CabinetHinge_eye=1.5&CabinetHinge_play=0.05&CabinetHinge_spacing=2.0&SlideOnLid_hole_width=0&SlideOnLid_second_pin=0&SlideOnLid_second_pin=1&SlideOnLid_spring=both&SlideOnLid_style=rectangular&SlideOnLid_surroundingspaces=2.0&SlideOnLid_bottom_lip=0.0&SlideOnLid_edge_width=1.0&SlideOnLid_extra_length=0.0&SlideOnLid_finger=3.0&SlideOnLid_play=0.05&SlideOnLid_space=2.0&SlideOnLid_width=1.0&Click_angle=5.0&Click_bottom_radius=0.1&Click_depth=3.0&RoundedTriangleEdge_height=50.0&RoundedTriangleEdge_r_hole=2.0&RoundedTriangleEdge_radius=30.0&RoundedTriangleEdge_outset=1.0&Mounting_d_head=6.5&Mounting_d_shaft=3.0&Mounting_margin=0.125&Mounting_num=2&Mounting_side=back&Mounting_style=straight+edge%2C+within&HandleEdge_height=20.0&HandleEdge_hole_height=75.0&HandleEdge_hole_width=40%3A40&HandleEdge_on_sides=0&HandleEdge_on_sides=1&HandleEdge_radius=10.0&HandleEdge_outset=1.0&Lid_handle=none&Lid_style=none&Lid_handle_height=8.0&Lid_height=4.0&Lid_play=0.1&text_size=12&text_alignment=left&text_distance_x=2.0&text_distance_y=2.0&text_at_front=0&label_text=&FingerHoleEdge_absolute_depth=8&FingerHoleEdge_absolute_width=20&FingerHoleEdge_radius=20&FingerHoleEdge_relative_depth=0.1&FingerHoleEdge_relative_width=0&sx=79.2&sy=59.2&h=25&hi=0&outside=0&bottom_edge=F&top_edge=e&back_height=0&radius=0&gripheight=0&gripwidth=0&handle=0&fingerholes=front-and-back&thickness=1.55&format=lbrn2&tabs=0&qr_code=0&qr_code=1&debug=0&labels=0&labels=1&reference=100.0&inner_corners=loop&burn=0.06&language=de&render=0)
+* [Inner Tray](https://boxes.hackerspace-bamberg.de/TypeTray?FingerJoint_style=rectangular&FingerJoint_surroundingspaces=0.5&FingerJoint_bottom_lip=0.0&FingerJoint_edge_width=0&FingerJoint_extra_length=0.1&FingerJoint_finger=3&FingerJoint_play=0&FingerJoint_space=3&FingerJoint_width=1&Stackable_angle=60&Stackable_bottom_stabilizers=0.0&Stackable_height=0&Stackable_holedistance=1.0&Stackable_width=4.0&Hinge_grip_percentage=0&Hinge_outset=0&Hinge_pinwidth=0.5&Hinge_axle=2.0&Hinge_grip_length=0&Hinge_hingestrength=1&CabinetHinge_bore=3.2&CabinetHinge_eyes_per_hinge=5&CabinetHinge_hinges=2&CabinetHinge_style=inside&CabinetHinge_eye=1.5&CabinetHinge_play=0.05&CabinetHinge_spacing=2.0&SlideOnLid_hole_width=0&SlideOnLid_second_pin=0&SlideOnLid_second_pin=1&SlideOnLid_spring=both&SlideOnLid_style=rectangular&SlideOnLid_surroundingspaces=2.0&SlideOnLid_bottom_lip=0.0&SlideOnLid_edge_width=1.0&SlideOnLid_extra_length=0.0&SlideOnLid_finger=3.0&SlideOnLid_play=0.05&SlideOnLid_space=2.0&SlideOnLid_width=1.0&Click_angle=5.0&Click_bottom_radius=0.1&Click_depth=3.0&RoundedTriangleEdge_height=50.0&RoundedTriangleEdge_r_hole=2.0&RoundedTriangleEdge_radius=30.0&RoundedTriangleEdge_outset=1.0&Mounting_d_head=6.5&Mounting_d_shaft=3.0&Mounting_margin=0.125&Mounting_num=2&Mounting_side=back&Mounting_style=straight+edge%2C+within&HandleEdge_height=20.0&HandleEdge_hole_height=75.0&HandleEdge_hole_width=40%3A40&HandleEdge_on_sides=0&HandleEdge_on_sides=1&HandleEdge_radius=10.0&HandleEdge_outset=1.0&Lid_handle=none&Lid_style=none&Lid_handle_height=8.0&Lid_height=4.0&Lid_play=0.1&text_size=12&text_alignment=left&text_distance_x=2.0&text_distance_y=2.0&text_at_front=0&label_text=&FingerHoleEdge_absolute_depth=8&FingerHoleEdge_absolute_width=56&FingerHoleEdge_radius=25&FingerHoleEdge_relative_depth=0&FingerHoleEdge_relative_width=0&sx=58.5&sy=78.5&h=24.5&hi=12&outside=0&outside=1&bottom_edge=F&top_edge=e&back_height=0&radius=0&gripheight=0&gripwidth=0&handle=0&fingerholes=inside-only&thickness=1.55&format=lbrn2&tabs=0&qr_code=0&qr_code=1&debug=0&labels=0&labels=1&reference=100.0&inner_corners=loop&burn=0.06&language=de&render=0)
+
+Notes:
+
+* In order to keep the card size, this box _needs_ to be built from 1.5mm ply.
+* If you use a different material thickness, all boxes will have to be re-generated.
+  * make sure that inner/outer measurements are correct and match 
+  * use _at least_ a margin of error of 0.5mm. Otherwise, trays might not fit into each other
+* Make sure to sand all sides and holes thoroughly before glueing. Your tokens will be grateful.
 
 ## Setup Box (Concept)
 
