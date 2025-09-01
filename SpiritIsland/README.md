@@ -20,9 +20,8 @@ Optimized for setup time and ease of use first, and for space efficiency second.
 * The invader board serves as the lid (a larger variant of the compact invader board above)
 * Contains blight tokens and blight cards
 * Event cards
-* Fear tokens (premium tokens), fear cards and terror level separators
+* Fear tokens (premium tokens), fear cards and terror level dividers
 * Invader cards
-* Adversary reminders (potentially)
 
 The card decks fully seal the tokens below so they don't scatter, even if the box is turned upside down.
 
@@ -37,24 +36,23 @@ Boxes.py source:
 
 Notes:
 
-* I tried to account for sleeved cards, in all dimensions. After finishing, the margin of error seems small though.
+* I tried to account for sleeved cards, in all dimensions. After finishing, the margin of error seems small though. The inside dimensions of the compartment for the event deck are 92mm x 67mm.
 * The invader box required several manual modifications
   * fix an error made by the generator where the holes for inner finger joints need to be mirrored
   * enlarging the finger holes to the bottom of the box 
   * resizing the finger joints below the finger holes to make the side of the box more rigid
   * enlarging one inner separator to keep the smaller part of the compact invader board from sliding inside the box
-* Make sure to sand all sides thoroughly before glueing. Your cards and tokens will be grateful.
-
+* Make sure to sand all sides thoroughly before gluing. Your cards and tokens will be grateful.
 
 Plans:
 
-* make wooden terror level dividers, including the "Immediate Win". That way the fear deck can be stored in the box like blight and event deck. Which reduces setup time even more.
+* make wooden terror level dividers, including "Terror Victory". That way, the fear deck can be stored in the box like blight and event deck. Which reduces setup time even more.
 * remake the box with 3mm ply and make the lid a sliding lid. Magnets are nice, but their adherence could be better
 
 ## Energy Box
 
 A box for storing premium energy tokens, with a twist.
-Consists of three nested trays. 
+It consists of three nested trays. 
 The middle tray is actually a sieve that separates 1-energy and 3-energy tokens when shaking the box.
 
 Coincidentally, the box has similar dimensions to sleeved cards and could be placed inside card-holders. 
