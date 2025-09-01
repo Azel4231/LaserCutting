@@ -20,12 +20,11 @@ Optimized for setup time and ease of use first, and for space efficiency second.
 * The invader board serves as the lid (a larger variant of the compact invader board above)
 * Contains blight tokens and blight cards
 * Event cards
-* Fear tokens, fear cards and terror level separators
+* Fear tokens (premium tokens), fear cards and terror level separators
 * Invader cards
 * Adversary reminders (potentially)
 
-Designed for non-sleeved cards and premium tokens. 
-Sleeved cards and regular fear tokens should work as well.
+The card decks fully seal the tokens below so they don't scatter, even if the box is turned upside down.
 
 Built of 2mm (1/12 inch) birch plywood.
 
@@ -38,7 +37,7 @@ Boxes.py source:
 
 Notes:
 
-* I tried to account for sleeved cards, but the margin of error seems small.
+* I tried to account for sleeved cards, in all dimensions. After finishing, the margin of error seems small though.
 * The invader box required several manual modifications
   * fix an error made by the generator where the holes for inner finger joints need to be mirrored
   * enlarging the finger holes to the bottom of the box 
